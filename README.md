@@ -8,12 +8,7 @@
 
 ## 🛠️ Skills and Technologies
 - **Programming Languages**: C++, Python, C
-- **Technologies**: Qt, Oracle, SQL, Git
 - **Operating Systems**: RedHat Linux, Windows
-- **Tools**: Visual Studio Code
-
-## 🌟 Projects I'm Working On
-- [**PoliceStationManager**](https://github.com/yacrb/PoliceStationManager) - A police station management system built in **C++** with a **Qt GUI** and **Oracle database** integration.
 
 ## 📫 How to Reach Me
 - **Email**: [RIABI.MohamedYacine@tek-up.de](mailto:RIABI.MohamedYacine@tek-up.de)
