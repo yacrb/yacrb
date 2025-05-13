@@ -1,14 +1,14 @@
-# Hi there, I'm Yacine! 👋
+# Yacine
 
-## 🚀 About Me
-- 🎓 **Computer Science student** at TEK-UP University.
-- 🔐 **Aspiring Cybersecurity Engineer** passionate about **security**, **privacy**, and **decentralization**.
-- 🎮 Enjoy participating in **CTF competitions** to sharpen my cybersecurity skills.
-- 🌱 Currently learning **C++** and exploring advanced software development.
+Cybersecurity engineering student at **TEK-UP University**
 
-## 🛠️ Skills and Technologies
-- **Programming Languages**: C++, Python, C
-- **Operating Systems**: RedHat Linux, Windows
+### 🛠️ Technical Skills
+- **Languages**: C, C++, Python, Java, Rust (learning)
+- **Cybersecurity**: Forensics, Web Exploitation, CTFs
+- **Web Development**: HTML, CSS, JavaScript, PHP, MySQL
+- **Environments**: Debian, Red Hat
 
-## ⚡ Fun Fact
-- I love challenging myself with debates on a wide range of topics, always aiming to see things from multiple perspectives.
+### 🎯 Current Focus
+- Building internal tools and contributing to CTFs
+- Advancing in low-level programming and modern web security
+- Exploring blockchain technologies
